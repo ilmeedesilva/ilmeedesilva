@@ -1,6 +1,6 @@
 # Hi, I'm Ilmee 👋
 
-Fullstack software engineer based in Colombo, Sri Lanka, working mostly on the backend with Python and FastAPI. For the past three years I've built cloud integrations and AI document-automation pipelines for Australian enterprise clients, including an LLM-powered extraction pipeline that turned a month-long manual tax review into a few days.
+Fullstack software engineer based in Colombo, Sri Lanka, working mostly on the backend with Python and FastAPI. I enjoy designing APIs, connecting systems through cloud integrations and data pipelines, and building practical tools with LLMs.
 
 I like building tools that take real work off people's plates, and making them reliable enough to trust.
 
