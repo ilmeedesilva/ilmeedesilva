@@ -35,11 +35,13 @@ An AI agent that upgrades a Python dependency, **fixes the code that breaks**, a
 
 | | |
 |---|---|
-| **Languages** | Python · JavaScript · TypeScript · Java · Swift · SQL · XML/XSD |
-| **Backend** | FastAPI · Node.js · REST API design · API gateways · authentication · retry and error handling |
-| **Frontend & mobile** | React · Next.js · HTML · CSS · iOS (Swift) |
+| **Languages** | Python · JavaScript · TypeScript · Java · Swift · SQL · PHP · XML/XSD |
+| **Backend** | FastAPI · Flask · Spring Boot · Node.js · Express · REST API design · JWT auth · Swagger/OpenAPI |
+| **ORMs & validation** | SQLAlchemy · Alembic · Prisma · Spring Data JPA · Pydantic |
+| **Frontend** | React · Next.js · Vite · Tailwind CSS · Bootstrap · Sass · HTML · CSS · Recharts · Chart.js |
+| **Mobile** | iOS (SwiftUI, UIKit, Core Data) · React Native · Expo |
 | **Cloud** | AWS (Lambda, API Gateway, S3, CloudWatch) · Microsoft Azure (AI Search, Blob Storage) |
-| **Data** | PostgreSQL · relational databases · stored procedures · data modelling · ETL pipelines · Apache Airflow · Apache Spark · Jupyter |
-| **AI & ML** | LLM agents and tool use (Claude API) · prompt engineering · structured output · semantic search · document processing · computer vision · machine learning |
-| **DevOps & tools** | Docker · Git · GitHub Actions · Azure DevOps · Postman · pytest · VS Code |
+| **Data** | PostgreSQL · stored procedures · data modelling · ETL pipelines · Apache Airflow · Apache Spark · dbt · pandas · NumPy |
+| **AI & ML** | LLM agents and tool use (Claude API) · prompt engineering · structured output · semantic search · document processing · PyTorch · scikit-learn · OpenCV · Streamlit · Jupyter |
+| **DevOps & testing** | Docker · Docker Compose · GitHub Actions · Azure DevOps · Git · pytest · Jest · Postman |
 | **Practices** | Agile/Scrum · testing and QA · UAT · release management · technical documentation |
