@@ -4,12 +4,14 @@ Backend and AI systems engineer. I like building tools that take real work off d
 
 <!-- Add a line about yourself here, e.g. where you're based, what you're studying or working on, or what kind of role you're looking for. -->
 
-🌐 [Portfolio](https://portfolio-ochre-mu-58.vercel.app)
-<!-- · 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-HANDLE) · ✍️ [Blog](https://dev.to/YOUR-HANDLE) -->
+🌐 [Portfolio](https://portfolio-ochre-mu-58.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/ilmeedesilva)
+<!-- Once your post is live, add: · ✍️ [Blog](https://dev.to/YOUR-HANDLE) -->
 
 ## 🚀 Featured project: [patchpilot](https://github.com/ilmeedesilva/patchpilot)
 
-An AI agent that upgrades a Python dependency, **fixes the code that breaks**, and opens a pull request explaining what changed and why.
+An AI agent that upgrades a Python dependency, **fixes the code that breaks**, and opens a pull request explaining what changed and why. Install it with `pipx install patchpilot`.
+
+![patchpilot demo](https://raw.githubusercontent.com/ilmeedesilva/patchpilot/main/docs/demo.gif)
 
 - A hand-written tool-use agent loop on the Claude API
 - The project's code runs in a locked-down **Docker sandbox** (only the repo is mounted, non-root, capped resources)
@@ -17,7 +19,7 @@ An AI agent that upgrades a Python dependency, **fixes the code that breaks**, a
 - **Re-runs the tests itself** before committing, instead of trusting the model
 - Opens the PR through the GitHub CLI; failing upgrades open as drafts
 
-➡️ See a [live demo repo](https://github.com/ilmeedesilva/patchpilot-demo) that patchpilot upgrades from pydantic v1 to v2.
+➡️ See the [pull request it opened](https://github.com/ilmeedesilva/patchpilot-demo/pull/1) on a demo app, upgrading pydantic v1 to v2.
 
 ## 🛠️ Other projects
 
