@@ -25,7 +25,7 @@ An AI agent that upgrades a Python dependency, **fixes the code that breaks**, a
 
 | Project | What it is | Built with |
 |---|---|---|
-| [MESA](https://github.com/ilmeedesilva/MESA) | A cross-service static analysis tool that detects architectural anti-patterns in microservices | Python, FastAPI, TypeScript, PostgreSQL, Docker |
+| [MESA](https://github.com/ilmeedesilva/MESA) | A cross-service static analysis tool that detects architectural anti-patterns in microservices | Python, TypeScript, PostgreSQL, Docker |
 | [Diabetic Retinopathy Stage Detection](https://github.com/ilmeedesilva/Diabetic-Retinopathy-Stage-Detection) | Computer vision model that classifies diabetic retinopathy stages from retinal images | Python, PyTorch, OpenCV, scikit-learn, Streamlit |
 | [ReceiptSnap](https://github.com/ilmeedesilva/ReceiptSnapApp) | iOS app for receipt and expense management | Swift, SwiftUI, Core Data |
 | [ClinicFlow](https://github.com/ilmeedesilva/ClinicFlow) | iOS app for clinic management | Swift, SwiftUI |
