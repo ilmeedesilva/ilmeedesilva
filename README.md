@@ -1,10 +1,10 @@
 # Hi, I'm Ilmee 👋
 
-Backend and AI systems engineer. I like building tools that take real work off developers' plates, and making them safe enough to trust.
+Fullstack software engineer based in Colombo, Sri Lanka, working mostly on the backend with Python and FastAPI. For the past three years I've built cloud integrations and AI document-automation pipelines for Australian enterprise clients, including an LLM-powered extraction pipeline that turned a month-long manual tax review into a few days.
 
-<!-- Add a line about yourself here, e.g. where you're based, what you're studying or working on, or what kind of role you're looking for. -->
+I like building tools that take real work off people's plates, and making them reliable enough to trust.
 
-🌐 [Portfolio](https://portfolio-ochre-mu-58.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/ilmeedesilva)
+🌐 [Portfolio](https://ilmeedesilva.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/ilmeedesilva)
 <!-- Once your post is live, add: · ✍️ [Blog](https://dev.to/YOUR-HANDLE) -->
 
 ## 🚀 Featured project: [patchpilot](https://github.com/ilmeedesilva/patchpilot)
