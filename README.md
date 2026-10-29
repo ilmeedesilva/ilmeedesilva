@@ -4,8 +4,7 @@ Fullstack software engineer based in Colombo, Sri Lanka, working mostly on the b
 
 I like building tools that take real work off people's plates, and making them reliable enough to trust.
 
-🌐 [Portfolio](https://ilmeedesilva.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/ilmeedesilva)
-<!-- Once your post is live, add: · ✍️ [Blog](https://dev.to/YOUR-HANDLE) -->
+🌐 [Portfolio](https://ilmeedesilva.vercel.app) · 💼 [LinkedIn](https://www.linkedin.com/in/ilmeedesilva) · ✍️ [Blog](https://dev.to/ilmeedesilva)
 
 ## 🚀 Featured project: [patchpilot](https://github.com/ilmeedesilva/patchpilot)
 
@@ -20,6 +19,8 @@ An AI agent that upgrades a Python dependency, **fixes the code that breaks**, a
 - Opens the PR through the GitHub CLI; failing upgrades open as drafts
 
 ➡️ See the [pull request it opened](https://github.com/ilmeedesilva/patchpilot-demo/pull/1) on a demo app, upgrading pydantic v1 to v2.
+
+✍️ Read the write-up: [I built an AI agent that fixes the code a dependency upgrade breaks](https://dev.to/ilmeedesilva/i-built-an-ai-agent-that-fixes-the-code-a-dependency-upgrade-breaks-2664)
 
 ## 🛠️ Other projects
 
