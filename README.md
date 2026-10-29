@@ -25,11 +25,11 @@ An AI agent that upgrades a Python dependency, **fixes the code that breaks**, a
 
 | Project | What it is | Built with |
 |---|---|---|
-| [MESA](https://github.com/ilmeedesilva/MESA) | A cross-service static analysis tool that detects architectural anti-patterns in microservices | Python, TypeScript, PostgreSQL, Docker |
-| [Diabetic Retinopathy Stage Detection](https://github.com/ilmeedesilva/Diabetic-Retinopathy-Stage-Detection) | Computer vision model that classifies diabetic retinopathy stages from retinal images | Python, Jupyter |
-| [ReceiptSnap](https://github.com/ilmeedesilva/ReceiptSnapApp) | iOS app for receipt and expense management | Swift |
-| [ClinicFlow](https://github.com/ilmeedesilva/ClinicFlow) | iOS app for clinic management | Swift |
-| [Tuk-tuk tracking API](https://github.com/ilmeedesilva/tuk-tuk-tracking-web-api) | Web API for tracking tuk-tuks | JavaScript |
+| [MESA](https://github.com/ilmeedesilva/MESA) | A cross-service static analysis tool that detects architectural anti-patterns in microservices | Python, FastAPI, TypeScript, PostgreSQL, Docker |
+| [Diabetic Retinopathy Stage Detection](https://github.com/ilmeedesilva/Diabetic-Retinopathy-Stage-Detection) | Computer vision model that classifies diabetic retinopathy stages from retinal images | Python, PyTorch, OpenCV, scikit-learn, Streamlit |
+| [ReceiptSnap](https://github.com/ilmeedesilva/ReceiptSnapApp) | iOS app for receipt and expense management | Swift, SwiftUI, Core Data |
+| [ClinicFlow](https://github.com/ilmeedesilva/ClinicFlow) | iOS app for clinic management | Swift, SwiftUI |
+| [Tuk-tuk tracking API](https://github.com/ilmeedesilva/tuk-tuk-tracking-web-api) | Web API for tracking tuk-tuks | Node.js, Express, Prisma, JWT, Swagger |
 
 ## 🧰 Tech I work with
 
