@@ -33,6 +33,13 @@ An AI agent that upgrades a Python dependency, **fixes the code that breaks**, a
 
 ## 🧰 Tech I work with
 
-**Languages:** Python · TypeScript · JavaScript · Swift · Java
-**Backend & infra:** REST APIs · PostgreSQL · Docker · GitHub Actions
-**AI:** LLM agents and tool use (Claude API) · computer vision · machine learning
+| | |
+|---|---|
+| **Languages** | Python · JavaScript · TypeScript · Java · Swift · SQL · XML/XSD |
+| **Backend** | FastAPI · Node.js · REST API design · API gateways · authentication · retry and error handling |
+| **Frontend & mobile** | React · Next.js · HTML · CSS · iOS (Swift) |
+| **Cloud** | AWS (Lambda, API Gateway, S3, CloudWatch) · Microsoft Azure (AI Search, Blob Storage) |
+| **Data** | PostgreSQL · relational databases · stored procedures · data modelling · ETL pipelines · Apache Airflow · Apache Spark · Jupyter |
+| **AI & ML** | LLM agents and tool use (Claude API) · prompt engineering · structured output · semantic search · document processing · computer vision · machine learning |
+| **DevOps & tools** | Docker · Git · GitHub Actions · Azure DevOps · Postman · pytest · VS Code |
+| **Practices** | Agile/Scrum · testing and QA · UAT · release management · technical documentation |
